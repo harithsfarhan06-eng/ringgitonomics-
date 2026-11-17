@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ringgitonomics.netlify.app/sitemap.xml
